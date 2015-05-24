@@ -1,0 +1,57 @@
+/*main and general*/
+
+.content {
+	margin-top: 100px;
+}
+.undecorated-link:hover {
+	text-decoration: none;
+}
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	display: none !important;
+}
+
+.center {
+	margin: 0 auto;
+}
+
+.logo {
+	padding: 5px;
+}
+
+.slogan {
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.main-text {
+    padding: 20px;
+    margin-bottom: 60px;
+}
+
+.badges {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/*andrew*/
+
+.andrew {
+    padding: 15px;
+}
+
+/*diana*/
+
+/*kevin*/
+
+/*affiliates*/
+
+/*criminal defense*/
+
+/*business litigation*/
+
+/*contact*/
+
+.contact-body {
+    padding: 15px;
+    margin-bottom: 30px;
+}
